@@ -1,0 +1,80 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 720 >>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+(V.K. ROHITH) Tj
+0 -20 Td
+(Phone: +91 9962685162 | Email: rohith.vit.2005@gmail.com | Location: Chennai, India) Tj
+0 -20 Td
+(LinkedIn: linkedin.com/in/v-k-rohith-5a8764326 | GitHub: github.com/RohiVK) Tj
+0 -30 Td
+(EDUCATION) Tj
+0 -15 Td
+(Vellore Institute of Technology - B.Tech in Computer Science & Engineering | CGPA: 8.00/10.00 (2023 - 2027)) Tj
+0 -15 Td
+(Sri Chaitanya College of Education - 12th Grade (PCM & CS) | Aggregate Score: 80.6% (Passed 2023)) Tj
+0 -30 Td
+(LEADERSHIP & CHAPTER MANAGEMENT) Tj
+0 -15 Td
+(Computer Society of India (CSI) Chapter, VIT-AP - Chapter Manager (2025 - 2026)) Tj
+0 -15 Td
+(- Directed strategy, cross-functional roadmaps, and logistics for 1000+ active symposium participants.) Tj
+0 -15 Td
+(- Managed resource budgeting and acted as strategic bridge between developers and administration.) Tj
+0 -15 Td
+(Sri Chaitanya School - School Head Boy (2017-2018 & 2019-2020)) Tj
+0 -15 Td
+(- Liaison to administration; coordinated major regional school competitions and council initiatives.) Tj
+0 -30 Td
+(TECHNICAL PROJECTS & PRODUCT DELIVERY) Tj
+0 -15 Td
+(Examify - Automated Proctoring Platform (Python, OpenCV, MediaPipe, FastAPI)) Tj
+0 -15 Td
+(- Developed real-time biometric mapping via Face Mesh to compute student trust credibility scores.) Tj
+0 -15 Td
+(ClassTrack - Academic Attendance & Schedule Tracker (React.js, Node.js, MongoDB, Redux Toolkit)) Tj
+0 -15 Td
+(- Optimized client-side state architecture, cutting data synchronization latency by 35%.) Tj
+0 -15 Td
+(Connekt - Campus Social Hub (React, Node, Express, MongoDB, Material UI, Cloudinary)) Tj
+0 -15 Td
+(- Designed campus discussion forums and anonymous routing, integrating cloud asset storage.) Tj
+0 -15 Td
+(FindFake - LSTM Phishing Domain Detector (Python, LSTM, FastAPI, Deep Learning)) Tj
+0 -15 Td
+(- Selected to showcase the LSTM URLs detector live on stage at Great India HackFest '24.) Tj
+0 -30 Td
+(CERTIFICATIONS & HONOURS) Tj
+0 -15 Td
+(- AWS Certified Cloud Architecting & AWS Certified Cloud Foundations) Tj
+0 -15 Td
+(- IBM Certified Blockchain Developer) Tj
+0 -15 Td
+(- Top 10 Finalist: Great India HackFest '24 & Technov 24-Hour National Hackathon) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000224 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+995
+%%EOF
