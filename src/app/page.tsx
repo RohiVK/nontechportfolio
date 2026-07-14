@@ -227,14 +227,7 @@ export default function Home() {
           <button onClick={() => scrollToSection("contact")} className="hover:text-yellow-355 transition-colors cursor-pointer">CONTACT</button>
         </nav>
 
-        <a 
-          href="/resume.pdf"
-          target="_blank"
-          className="px-4 py-2 bg-white text-[#2a66e4] font-mono rounded-full text-[10px] tracking-widest transition-all duration-200 cursor-pointer flex items-center space-x-1.5 font-bold shadow-md hover:bg-slate-100 hover:scale-105"
-        >
-          <FileTextIcon className="w-3.5 h-3.5" />
-          <span>RESUME.PDF</span>
-        </a>
+
       </header>
 
       {/* Main layout */}
